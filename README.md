@@ -1,4 +1,3 @@
-# odooseo
-Best ERP for Manufacturing | Odoo ERP Software in the UK
-Odoo is an all-in-one Manufacturing ERP software including Schedule & Plan, billing, inventory, Workcenter Control Panel and project management.
-https://akarigo.com/erp-for-manufacturing-business/
+Top Inventory Management Software | Inventory system in UK  
+Odoo is the best inventory management software in the UK. Inventory software Features online inventory management, order fulfillment, and Traceability.
+https://akarigo.com/inventory-management-software/
